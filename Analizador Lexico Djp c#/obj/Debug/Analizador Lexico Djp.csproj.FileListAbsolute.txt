@@ -1,0 +1,20 @@
+D:\Compiladores\Lexico\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.csprojAssemblyReference.cache
+D:\Compiladores\Lexico\Analizador Lexico Djp\obj\Debug\Analizador_Lexico_Djp.Form1.resources
+D:\Compiladores\Lexico\Analizador Lexico Djp\obj\Debug\Analizador_Lexico_Djp.Properties.Resources.resources
+D:\Compiladores\Lexico\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.csproj.GenerateResource.cache
+D:\Compiladores\Lexico\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.csproj.CoreCompileInputs.cache
+D:\Compiladores\Lexico\Analizador Lexico Djp\bin\Debug\Analizador Lexico Djp.exe.config
+D:\Compiladores\Lexico\Analizador Lexico Djp\bin\Debug\Analizador Lexico Djp.exe
+D:\Compiladores\Lexico\Analizador Lexico Djp\bin\Debug\Analizador Lexico Djp.pdb
+D:\Compiladores\Lexico\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.exe
+D:\Compiladores\Lexico\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.pdb
+E:\Analizador Lexico Djp\bin\Debug\Analizador Lexico Djp.exe.config
+E:\Analizador Lexico Djp\bin\Debug\Analizador Lexico Djp.exe
+E:\Analizador Lexico Djp\bin\Debug\Analizador Lexico Djp.pdb
+E:\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.csprojAssemblyReference.cache
+E:\Analizador Lexico Djp\obj\Debug\Analizador_Lexico_Djp.Form1.resources
+E:\Analizador Lexico Djp\obj\Debug\Analizador_Lexico_Djp.Properties.Resources.resources
+E:\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.csproj.GenerateResource.cache
+E:\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.csproj.CoreCompileInputs.cache
+E:\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.exe
+E:\Analizador Lexico Djp\obj\Debug\Analizador Lexico Djp.pdb
